@@ -5,7 +5,10 @@
     "branch": "master"
   },
   "site": {
+    "title": "Locksmith.by",
+    "description": "Аварийное вскрытие замков и все что с этим связано",
     "logo": "https://raw.githubusercontent.com/locksmithby/locksmithby.github.io/master/images/locksmithby.png",
+    "cover": "https://raw.githubusercontent.com/locksmithby/locksmithby.github.io/master/images/bg.png",
     "postsPerPage": ""
   },
   "socialnetwork": {},
