@@ -7,8 +7,8 @@
   "site": {
     "title": "",
     "description": "",
-    "logo": "",
-    "cover": "https://raw.githubusercontent.com/locksmithby/locksmithby.github.io/master/images/bg.png",
+    "logo": "https://raw.githubusercontent.com/locksmithby/locksmithby.github.io/master/images/locksmithby.png",
+    "cover": "",
     "postsPerPage": ""
   },
   "socialnetwork": {},
