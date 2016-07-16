@@ -1,4 +1,4 @@
 = Locksmith.by 
 :hp-tags: locksmith.by, захлопнулась дверь,
 
-Аварийное вскрытие замков в Минске можно заказать у наших партнеров http://masterzamkov.by и http://locksmith.by
+Аварийное вскрытие замков в Минске можно заказать у наших партнеров link:http://masterzamkov.by и http://locksmith.by
