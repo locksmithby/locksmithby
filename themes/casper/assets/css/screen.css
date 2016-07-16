@@ -507,8 +507,8 @@ body.nav-opened .site-wrapper {
     height: 100vh;
     margin-bottom: 5rem;
     text-align: center;
-    background: #222 no-repeat center center;
-    background-size: cover;
+    background: url('https://raw.githubusercontent.com/locksmithby/locksmithby.github.io/master/images/bg.png') #222 no-repeat center center;
+    background-size: 10px 16px;
     overflow: hidden;
 }
 
