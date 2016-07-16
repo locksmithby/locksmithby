@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "logo": "locksmithby.png"
+    "logo": "https://raw.githubusercontent.com/locksmithby/locksmithby.github.io/master/images/locksmithby.png",
+    "postsPerPage": ""
   },
   "socialnetwork": {},
   "theme": {
