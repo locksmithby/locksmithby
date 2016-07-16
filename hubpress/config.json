@@ -4,7 +4,11 @@
     "repositoryName": "locksmithby.github.io",
     "branch": "master"
   },
+  "site": {
+    "logo": "locksmithby.png"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
